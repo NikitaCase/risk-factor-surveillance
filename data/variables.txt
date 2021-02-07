@@ -1,0 +1,164 @@
+Variables of interest
+
+genhlth: General Health
+physhlth: Number Of Days Physical Health Not Good
+menthlth: Number Of Days Mental Health Not Good
+poorhlth: Poor Physical Or Mental Health
+
+
+Health Care Access
+hlthpln1: Have Any Health Care Coverage
+persdoc2: Multiple Health Care Professionals
+medcost: Could Not See Dr. Because Of Cost
+checkup1: Length Of Time Since Last Routine Checkup
+
+Inadequate Sleep
+sleptim1: How Much Time Do You Sleep
+
+Hypertension Awareness
+bphigh4: Ever Told Blood Pressure High
+bpmeds: Currently Taking Blood Pressure Medication
+
+Cholesterol Awareness
+bloodcho: Ever Had Blood Cholesterol Checked
+cholchk: How Long Since Cholesterol Checked
+toldhi2: Ever Told Blood Cholesterol High
+
+
+Chronic Health Conditions
+cvdinfr4: Ever Diagnosed With Heart Attack
+cvdcrhd4: Ever Diagnosed With Angina Or Coronary Heart Disease
+cvdstrk3: Ever Diagnosed With A Stroke
+addepev2: Ever Told You Had A Depressive Disorder
+diabete3: (Ever Told) You Have Diabetes
+
+
+
+educa: Education Level
+employ1: Employment Status
+income2: Income Level
+
+
+weight2: Reported Weight In Pounds
+height3: Reported Height In Feet And Inches
+
+
+qlactlm2: Activity Limitation Due To Health Problems
+useequip: Health Problems Requiring Special Equipment
+
+
+decide: Difficulty Concentrating Or Remembering
+
+
+diffwalk: Difficulty Walking Or Climbing Stairs
+diffdres: Difficulty Dressing Or Bathing
+diffalon: Difficulty Doing Errands Alone
+
+
+smoke100: Smoked At Least 100 Cigarettes
+smokday2: Frequency Of Days Now Smoking
+stopsmk2: Stopped Smoking In Past 12 Months
+lastsmk2: Interval Since Last Smoked
+usenow3: Use Of Smokeless Tobacco Products
+
+
+alcday5: Days In Past 30 Had Alcoholic Beverage
+avedrnk2: Avg Alcoholic Drinks Per Day In Past 30
+drnk3ge5: Binge Drinking
+maxdrnks: Most Drinks On Single Occasion Past 30 Days
+
+
+exerany2: Exercise In Past 30 Days
+exract11: Type Of Physical Activity
+exeroft1: How Many Times Walking, Running, Jogging, Or Swimming
+exerhmm1: Minutes Or Hours Walking, Running, Jogging, Or Swimming
+exract21: Other Type Of Physical Activity Giving Most Exercise During Past Month
+exeroft2: How Many Times Walking, Running, Jogging, Or Swimming
+exerhmm2: Minutes Or Hours Walking, Running, Jogging, Or Swimming
+strength: How Many Times Did You Do Physical Activities Or Exercises To Strengthen Your Mu
+
+
+Optional DM
+pdiabtst: Had A Test For High Blood Sugar In Past Three Years
+prediab1: Ever Been Told You Have Pre-Diabetes Or Borderline Diabetes
+
+diabage2: Age When Told Diabetic
+insulin: Now Taking Insulin
+bldsugar: How Often Check Blood For Glucose
+feetchk2: How Often Check Feet For Sores Or Irritations
+doctdiab: Times Seen Health Professional For Diabetes
+chkhemo3: Times Checked For Glycosylated Hemoglobin
+feetchk: Times Feet Check For Sores/Irritations
+eyeexam: Last Eye Exam Where Pupils Were Dilated
+diabeye: Ever Told Diabetes Has Affected Eyes
+diabedu: Ever Taken Class In Managing Diabetes
+
+
+Optional Sugar drinks
+ssbsugar: How Often Do You Drink Regular Soda Or Pop?
+ssbfrut2: How Often Did You Drink Sugar-Sweetened Drinks?
+
+Optional Salt 
+wtchsalt: Watching Sodium Or Salt Intake
+longwtch: How Long Watching Salt/Sodium Intake
+dradvise: Doctor Advised Reduced Sodium/Salt Intake
+
+
+Optional Module 8 - Cardiovascular Health
+harehab1: Outpatient Rehab After Heart Attack Hosp Stay
+strehab1: Outpatient Rehab After Hosp Stay For Stroke
+cvdasprn: Take Aspirin Daily Or Every Other Day
+aspunsaf: Health Makes Taking Aspirin Unsafe
+rlivpain: Take Aspirin To Relieve Pain
+rduchart: Take Aspirin To Reduce Chance Of Heart Attack
+rducstrk: Take Aspirin To Reduce Chance Of Stroke
+
+
+Optional HPV
+hpvadvc2: Ever Had The HPV Vaccination?
+hpvadsht: Number Of HPV Shots Received
+
+
+Optional Screening
+hadmam: Have You Ever Had A Mammogram
+howlong: How Long Since Last Mammogram
+profexam: Ever Had Breast Physical Exam By Doctor
+lengexam: How Long Since Last Breast Physical Exam
+hadpap2: Ever Had A Pap Test
+lastpap2: How Long Since Last Pap Test
+
+
+Optional Race
+rrclass2: How Do Other People Usually Classify You In This Country?
+rrcognt2: How Often Do You Think About Your Race?
+rratwrk2: How Do You Feel You Were Treated At Work Compared To People Of Other Races In Pa
+rrhcare3: When Seeking Health Care Past 12 Months, Was Experience Worse, Same, Better Than
+rrphysm2: Times Past 30 Days Felt Physical Symptoms Because Of Treatment Due To Your Race
+rremtsm2: Times Past 30 Days Felt Emotionally Upset Because Of Treatment Due To Your Race
+
+
+Optional Mental Illness and Stigma
+misnervs: How Often Feel Nervous Past 30 Days
+mishopls: How Often Feel Hopeless Past 30 Days
+misrstls: How Often Feel Restless Past 30 Days
+misdeprd: How Often Feel Depressed Past 30 Days
+miseffrt: How Often Feel Everything Was An Effort Past 30 Days
+miswtles: How Often Feel Worthless Past 30 Days
+misnowrk: Emotional Problem Kept You From Doing Work Past 30 Days
+mistmnt: Receiving Medicine Or Treatment From Health Pro For Emotional Problem
+mistrhlp: Mental Health Treatment Can Help People Lead Normal Life
+misphlpf: People Are Generally Caring Toward People With Mental Illness
+
+
+Optional Module 19 - Social Context
+scntmony: Times Past 12 Months Worried/Stressed About Having Enough Money To Pay Your Rent
+scntmeal: Times Past 12 Months Worried/Stressed About Having Enough Money To Buy Nutritiou
+scntpaid: How Are You Generally Paid For The Work You Do
+scntwrk1: How Many Hours Per Week Do You Work
+scntlpad: How Were You Generally Paid For The Work You Did
+scntlwk1: How Many Hours Per Week Did You Work
+
+
+Optional Emotional Support and Life Satisfaction
+emtsuprt: How Often Get Emotional Support Needed
+lsatisfy: Satisfaction With Life
